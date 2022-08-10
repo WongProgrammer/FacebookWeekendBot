@@ -1,0 +1,12 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "Send a meme every friday to group chat",
+  "main": "facebook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon scheduler.js"
+  },
+  "author": "Francis Nguyen",
+  "license": "ISC"
+}
